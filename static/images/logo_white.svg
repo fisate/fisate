@@ -16,7 +16,7 @@
    x="0px"
    id="Layer_1"
    version="1.1"
-   sodipodi:docname="logo.svg"
+   sodipodi:docname="logo_white.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
@@ -31,7 +31,7 @@
    id="namedview14"
    showgrid="false"
    inkscape:zoom="1.59"
-   inkscape:cx="-148.74214"
+   inkscape:cx="127.98742"
    inkscape:cy="50"
    inkscape:window-x="-9"
    inkscape:window-y="-9"
@@ -42,7 +42,7 @@
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
    id="defs23" /><text
    xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0f1626;fill-opacity:1;stroke:none;"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f5f5f5;fill-opacity:1;stroke:none;"
    x="67.295586"
    y="70.440254"
    id="text823"><tspan
@@ -50,7 +50,7 @@
      id="tspan821"
      x="67.295586"
      y="70.440254"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0f1626;fill-opacity:1;">Fisate</tspan></text>
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f5f5f5;fill-opacity:1;">Fisate</tspan></text>
 
 
 </svg>
