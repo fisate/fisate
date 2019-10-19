@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "/"
 languageCode = "en-us"
-title = "Okkur - Syna"
+title = "Fisate"
 theme = "syna"
 enableGitInfo = true
 version = "0.15.2"
