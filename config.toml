@@ -46,14 +46,14 @@ lastmod = ["lastmod", ":git", "date"]
     pro = false
 
   [params.colors]
-    primary = "#00838F"
-    secondary = "#868e96"
+    primary = "#ff533d"
+    secondary = "#ab987a"
     success = "#008f54"
     info = "#00c9dc"
     warning = "#fdf314"
     danger = "#dc1200"
-    light = "#f8f9fa"
-    dark = "#343a40"
+    light = "#f5f5f5"
+    dark = "#0f1626"
 
 # main/prepend/postpend menus are displayed in nav fragment.
 # Keep an eye out for updates. These will be moved out to make navbar more
@@ -65,47 +65,43 @@ lastmod = ["lastmod", ":git", "date"]
 
 [[menu.main]]
   url = "/about"
-  name = "About Us"
+  name = "Prodotti"
   weight = 20
 
-[[menu.main]]
-  url = "#contact"
-  name = "Contact"
-  weight = 30
 
-[[menu.footer]]
-  url = "#"
-  name = "Link"
-  weight = 10
+#[[menu.footer]]
+#  url = "#"
+#  name = "Link"
+#  weight = 10
 
-[[menu.footer]]
-  url = "#"
-  name = "Long Link"
-  weight = 30
+#[[menu.footer]]
+#  url = "#"
+#  name = "Long Link"
+#  weight = 30
 
-[[menu.footer]]
-  url = "#"
-  name = "Tiny Link"
-  weight = 30
+#[[menu.footer]]
+#  url = "#"
+#  name = "Tiny Link"
+#  weight = 30
 
-[[menu.copyright_footer]]
-  url = "/about"
-  name = "About Us"
-  weight = 10
+#[[menu.copyright_footer]]
+#  url = "/about"
+#  name = "About Us"
+#  weight = 10
 
-[[menu.copyright_footer]]
-  url = "#"
-  name = "Another Link"
-  weight = 30
+#[[menu.copyright_footer]]
+#  url = "#"
+#  name = "Another Link"
+#  weight = 30
 
-[[menu.footer_social]]
-  weight = 20
-  name = "facebook"
-  pre = "fab fa-facebook-f"
-  url = "#"
+#[[menu.footer_social]]
+#  weight = 20
+#  name = "facebook"
+#  pre = "fab fa-facebook-f"
+#  url = "#"
 
-[[menu.footer_social]]
-  weight = 30
-  name = "linkedin"
-  pre = "fab fa-linkedin-in"
-  url = "#"
+#[[menu.footer_social]]
+#  weight = 30
+#  name = "linkedin"
+#  pre = "fab fa-linkedin-in"
+#  url = "#"

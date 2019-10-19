@@ -5,7 +5,7 @@ date = "2016-09-07"
 weight = 1200
 #background = ""
 
-menu_title = "Link Title"
+menu_title = "Pronto ad entrare nella tua casa del futuro?"
 
 [asset]
   title = "Logo Title"
@@ -14,8 +14,6 @@ menu_title = "Link Title"
   url = "#"
 +++
 
-#### Description Title
+#### Contattaci
 
-Project description such as:
-Open source theme for your next project
-Provided by Okkur Labs
+[paolog89@gmail.com](mailto:paolog89@gmail.com)
