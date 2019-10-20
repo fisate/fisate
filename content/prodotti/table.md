@@ -3,7 +3,7 @@ fragment = "content"
 #disabled = false
 date = "2017-10-04"
 weight = 130
-background = "light"
+background = "primary"
 align = "center"
 
 title = "Prodotti"
@@ -25,3 +25,6 @@ subtitle = " "
 |Sensore Temperatura/Umidità|  N/A             |N/A                            |
 |Connessione dispositivi collegabili|  N/A     |10                             |
 |Automazione/Scena|   N/A                      |                    10         |
+<br>
+Prezzi in CHF. Il prezzo comprende l’installazione. Supporto post vendita e risoluzione problemi non incluso.
+Requisiti: Compertura Wi-Fi. Connessione ad internet.

@@ -10,6 +10,9 @@ title = "Home Assistant"
 #subtitle = ""
 
 +++
-[Home Assistant](https://www.home-assistant.io/) è un sistema di automazione della casa con migliaia di [componenti](https://www.home-assistant.io/components/) collegabili.
+<a href="https://www.home-assistant.io/" target="_blank">Home Assistant</a> è un sistema di automazione della casa con migliaia di <a href="https://www.home-assistant.io/components/" target="_blank">componenti</a> collegabili.
 
-Scoprilo nella [demo](https://demo.home-assistant.io/).
+Scoprilo nella <a href="https://demo.home-assistant.io/" target="_blank">demo</a>
+<br>
+
+{{< figure src="HAdemo.png" link="https://demo.home-assistant.io/" alt="Home Assistant Demo" target="_blank">}}
