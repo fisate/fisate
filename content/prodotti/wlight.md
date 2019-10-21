@@ -19,3 +19,6 @@ subtitle= "La luce bianca intelligente"
   width = "50px"
   
 +++
+
+Prezzo configurazione base: 30.- <br>
+Prezzo configurazione avanzata: 35.-

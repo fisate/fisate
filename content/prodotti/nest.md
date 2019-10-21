@@ -7,7 +7,7 @@ background = "white"
 align = "right"
 
 title = "Google Nest Mini"
-subtitle= "Il tuo assistente personale"
+subtitle= "Il tuo assistente vocale personale"
 
 # Subtitle pre and post item
 #pre = "Awesome screenshot"
@@ -16,3 +16,7 @@ subtitle= "Il tuo assistente personale"
 [asset]
   image = "nest-mini.jpg"
 +++
+Esaudirà i tuoi desideri...
+
+Prezzo configurazione base: 69.- <br>
+Prezzo configurazione avanzata: 89.-

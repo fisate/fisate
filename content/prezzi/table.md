@@ -6,7 +6,7 @@ weight = 1130
 background = "primary"
 align = "center"
 
-title = "Prodotti"
+title = "Listino prezzi"
 subtitle = " "
 
 +++
@@ -26,5 +26,6 @@ subtitle = " "
 |Connessione dispositivi collegabili|  N/A     |10                             |
 |Automazione/Scena|   N/A                      |                    10         |
 <br>
-Prezzi in CHF. Il prezzo comprende l’installazione. Supporto post vendita e risoluzione problemi non incluso.
+Prezzi in CHF. Il prezzo comprende l’installazione. <br>
+Supporto post vendita e risoluzione problemi non incluso. <br>
 Requisiti: Compertura Wi-Fi. Connessione ad internet.

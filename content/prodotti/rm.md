@@ -7,7 +7,7 @@ background = "white"
 align = "right"
 
 title = "Telecomando intelligente"
-subtitle= ""
+subtitle= "Sostituisci i tuoi telecomandi e comanda i tuoi dispositivi con la voce"
 
 # Subtitle pre and post item
 #pre = "Awesome screenshot"
@@ -19,3 +19,5 @@ subtitle= ""
   width = "50px"
   
 +++
+Prezzo configurazione base: 30.- <br>
+Prezzo configurazione avanzata: 35.-

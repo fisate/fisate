@@ -69,6 +69,10 @@ lastmod = ["lastmod", ":git", "date"]
   name = "Prodotti"
   weight = 20
 
+#[[menu.main]]
+#  url = "/about"
+#  name = "Cos'è Fisate"
+#  weight = 30
 
 #[[menu.footer]]
 #  url = "#"

@@ -7,7 +7,7 @@ background = "black"
 align = "left"
 
 title = "Striscia LED"
-subtitle= ""
+subtitle= "Dai la forma e il colore che desideri alla tua luce"
 
 # Subtitle pre and post item
 #pre = "Awesome screenshot"
@@ -19,3 +19,6 @@ subtitle= ""
   width = "50px"
   
 +++
+
+Prezzo configurazione base: 30.- <br>
+Prezzo configurazione avanzata: 35.-
