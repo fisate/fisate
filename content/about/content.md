@@ -7,9 +7,8 @@ background = "secondary"
 align = "center"
 
 title = "Cos'è Fisate"
-#subtitle = ""
+subtitle = "Fisate è un progetto per migliorare la vita delle persone. "
 
 +++
-Fisate è un progetto per migliorare la vita delle persone. 
 
 Fisate vuole rendere la tecnologia più accessibile e a servizio delle persone in modo da liberare tempo e risorse per le cose che contano di più.
