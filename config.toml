@@ -1,6 +1,7 @@
 # Site settings
 baseurl = "/"
-languageCode = "en-us"
+languageCode = "it"
+DefaultContentLanguage = "it"
 title = "Fisate"
 theme = "syna"
 enableGitInfo = true
