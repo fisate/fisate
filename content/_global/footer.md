@@ -16,4 +16,4 @@ menu_title = "Pronto ad entrare nella tua casa del futuro?"
 
 #### Contattaci
 
-[paolog89@gmail.com](mailto:paolog89@gmail.com)
+[info@fisate.com](mailto:info@fisate.com)
