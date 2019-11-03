@@ -17,6 +17,7 @@ subtitle= "Il tuo assistente vocale personale"
   image = "nest-mini.jpg"
 +++
 Esaudirà i tuoi desideri...
+<a href="https://store.google.com/it/product/google_nest_mini?hl=it-IT" target="_blank">Google Nest Mini</a>
 
 Prezzo configurazione base: 69.- <br>
 Prezzo configurazione avanzata: 89.-
