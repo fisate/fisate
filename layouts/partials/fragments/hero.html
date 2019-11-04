@@ -7,13 +7,23 @@
 {{ "<!-- Hero -->" | safeHTML }}
 <header id="{{ .Name }}" class="fragment hero">
   {{- if .Params.header }}
-    <div
-      style="
-        {{- with .Params.minHeight -}}
+
+<style scoped>
+.on-the-fly-behavior {
+{{- with .Params.minHeight -}}
           {{- (printf "min-height: %s;" .) | safeCSS -}}
         {{- end -}}
-        background-image:url({{ partial "helpers/image.html" (dict "root" $self "asset" .Params.header) }})"
-      class="jumbotron text-center header-image mb-0
+        background-image:url({{ partial "helpers/image.html" (dict "root" $self "asset" .Params.header) }});
+}
+@media (max-width: 800px) {
+    .on-the-fly-behavior {
+        background-image: url({{partial "helpers/image.html" (dict "root" $self "asset" .Params.headersmall)}});
+    }
+}
+</style>
+
+	<div
+      class="on-the-fly-behavior jumbotron text-center header-image mb-0
         {{- printf " bg-%s" $bg -}}
       ">
   {{- else }}

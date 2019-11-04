@@ -11,7 +11,9 @@ subtitle = "Domotica per la tua casa"
 
 [header]
   image = "header.jpg"
-
+[headersmall]
+  image = "headersmall.jpg"
+  
 [asset]
   image = "logo_white.svg"
   width = "500px" # optional - will default to image width
