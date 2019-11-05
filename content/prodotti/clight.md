@@ -19,5 +19,4 @@ subtitle= "Dai colore alla tua casa a seconda della situazione"
   width = "50px"
   
 +++
-Prezzo configurazione base: 35.- <br>
-Prezzo configurazione avanzata: 40.-
+Prezzo a partire da 35.-

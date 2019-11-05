@@ -19,5 +19,4 @@ subtitle= "Sostituisci i tuoi telecomandi e comanda i tuoi dispositivi con la vo
   width = "50px"
   
 +++
-Prezzo configurazione base: 30.- <br>
-Prezzo configurazione avanzata: 35.-
+Prezzo a partire da 30.-

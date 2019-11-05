@@ -23,4 +23,4 @@ subtitle= "Il cervello della tua casa"
 
 Scoprilo nella <a href="https://demo.home-assistant.io/" target="_blank">demo</a>
 
-Prezzo configurazione avanzata: 100.-
+Prezzo a partire da 100.-

@@ -20,5 +20,4 @@ subtitle= "Dai la forma e il colore che desideri alla tua luce"
   
 +++
 
-Prezzo configurazione base: 30.- <br>
-Prezzo configurazione avanzata: 35.-
+Prezzo a partire da 30.-

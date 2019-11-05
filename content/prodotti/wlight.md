@@ -20,5 +20,4 @@ subtitle= "La luce bianca intelligente"
   
 +++
 
-Prezzo configurazione base: 30.- <br>
-Prezzo configurazione avanzata: 35.-
+Prezzo a partire da 30.-

@@ -9,4 +9,6 @@ title = ""
 subtitle= ""
   
 +++
-Prezzi in CHF. Il prezzo comprende l’installazione. Supporto post vendita e risoluzione problemi non incluso. Requisiti: Compertura Wi-Fi. Connessione ad internet.
+Il prezzo (in CHF) comprende l’installazione e non comprende le configurazioni avanzate e il supporto post vendita.
+
+Requisiti: Connessione ad internet e compertura Wi-Fi.
