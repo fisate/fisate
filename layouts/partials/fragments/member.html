@@ -16,7 +16,7 @@
           <div class="col-lg-4 col-md-6 col-sm-12 pt-3 pb-5 text-left text-sm-center">
             {{- if .Params.asset -}}
               <div class="text-center m-2">
-                <img src="{{ partial "helpers/image.html" (dict "root" $self "this" . "asset" .Params.asset "resize" "250x250 Center") }}" class="img-fluid rounded-circle w-75 border
+                <img src="{{ partial "helpers/image.html" (dict "root" $self "this" . "asset" .Params.asset "resize" "250x250 center") }}" class="img-fluid rounded-circle w-75 border
                   {{- if or (eq $bg "white") (eq $bg "light") (eq $bg "secondary") (eq $bg "primary") -}}
                     {{- print " border-dark" -}}
                   {{- else -}}
