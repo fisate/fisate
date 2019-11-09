@@ -100,7 +100,7 @@
             {{- $member := .Params -}}
             {{- if .Params.asset -}}
               <div class="col-12 col-lg-5 p-5 text-center">
-                <img src="{{ partial "helpers/image.html" (dict "root" $self "this" . "asset" .Params.asset "resize" "250x250") }}" class="img-fluid rounded-circle border
+                <img src="{{ partial "helpers/image.html" (dict "root" $self "this" . "asset" .Params.asset "resize" "250x250 center") }}" class="img-fluid rounded-circle border
                   {{- partial "helpers/text-color.html" (dict "self" $self.self "light" "white") -}}
                 " alt="{{ $member.title }}"></img>
               </div>
