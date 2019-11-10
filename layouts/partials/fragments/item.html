@@ -35,7 +35,7 @@
       {{- if .Params.subtitle }}
         <div class="row pb-2">
           <div class="col-12
-            {{- partial "helpers/text-color.html" (dict "self" $self.self "light" "secondary") -}}
+            {{- partial "helpers/text-color.html" (dict "self" $self.self ) -}}
           ">
             <h5>
               {{- .Params.subtitle | markdownify -}}
@@ -118,7 +118,7 @@
       ">
         <div class="col-12">
           <div class="mb-0
-            {{- partial "helpers/text-color.html" (dict "self" $self.self "light" "secondary") -}}
+            {{- partial "helpers/text-color.html" (dict "self" $self.self ) -}}
           ">
             {{- .self.Content | markdownify -}}
           </div>

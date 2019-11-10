@@ -2,19 +2,19 @@
 fragment = "item"
 #disabled = false
 date = "2017-10-04"
-weight = 150
-background = "white"
+weight = 170
+background = "dark"
 align = "right"
 
-title = "Presa intelligente"
-subtitle= "Il controllo intelligente dei tuoi dispositivi"
+title = "Sensore porta"
+subtitle= "Controlla se le tue porte e finestre sono aperte"
 
 # Subtitle pre and post item
 #pre = "Awesome screenshot"
 #post = "Showcasing Syna"
 
 [asset]
-  image = "smartPlug.jpg"
+  icon = "fas fa-door-open"
 +++
 
 Prezzo a partire da 35.-
