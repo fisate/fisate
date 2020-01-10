@@ -1,7 +1,3 @@
 node_modules
 yarn-error.log
 exampleSite/public/*
-cypress/videos
-cypress/plugins
-cypress/screenshots
-cypress/support

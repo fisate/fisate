@@ -1,5 +1,4 @@
-{{- $page_title := partial "helpers/page-title.html" (dict "page" . "self" .) -}}
-{{- $title := printf "%s%s" $page_title (cond .IsHome (print "") (printf " &middot; %s" .Site.Title)) -}}
+{{- $title := printf "%s%s" .Title (cond (not .IsHome) (printf " &middot; %s" .Site.Title) (print "")) -}}
 {{- $content_fragment := first 1 ((where ((.Scratch.Get "page_fragments") | default (slice)) "Params.fragment" "in" "content") | default (slice)) -}}
 {{- .Scratch.Set "page_description" .Site.Params.Description -}}
 {{- range $content_fragment -}}
@@ -14,7 +13,8 @@
   <meta name="theme-author-url" content="https://about.okkur.org">
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="google" content="notranslate" />
+  <meta http-equiv="Content-Language" content="{{ .Site.LanguageCode | default "en-us" }}">
+  <meta name="google" value="notranslate">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
   <meta name="description" content="{{- .Scratch.Get "page_description" -}}">

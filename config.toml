@@ -56,10 +56,7 @@ lastmod = ["lastmod", ":git", "date"]
     light = "#f5f5f5"
     dark = "#0f1626"	
     dark2 = "#000000"
-	
-  [markup.goldmark.renderer]
-    unsafe= true
-	
+
 # main/prepend/postpend menus are displayed in nav fragment.
 # Keep an eye out for updates. These will be moved out to make navbar more
 # configurable.

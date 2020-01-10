@@ -4,7 +4,6 @@ weight = 131
 +++
 
 <details><summary>Code</summary>
-
 ```
 +++
 fragment = "item"

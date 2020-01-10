@@ -14,14 +14,14 @@
         ">
           <div class="row mx-0 mr-lg-auto justify-content-center">
             {{- with .Params.copyright }}
-              <div class="col-auto copyright-notice">
+              <div class="col-auto">
                 {{- . | markdownify -}}
               </div>
             {{- else }}
-              <div class="col-auto px-1 copyright-legal">
+              <div class="col-auto px-1">
                 {{- i18n "footerLegal.copyright" -}} &nbsp;{{ now.Format "2006" -}}
               </div>
-              <div class="col-auto px-0 copyright-by">
+              <div class="col-auto px-0">
                 {{- printf " %s %s" (i18n "footerLegal.by") $root.Site.Params.name -}}
               </div>
             {{- end }}
