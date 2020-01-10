@@ -6,7 +6,7 @@ title = "Okkur - Syna"
 theme = "syna"
 themesDir = "../.."
 enableGitInfo = true
-version = "0.15.2"
+version = "0.16.0"
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
 # Google Analytics tracking
@@ -18,6 +18,11 @@ googleAnalytics = ""
 [frontmatter]
 date = ["date", "lastmod"]
 lastmod = ["lastmod", ":git", "date"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+     unsafe = true
 
 [params]
   name = "Okkur Labs"
