@@ -7,6 +7,9 @@ theme = "syna"
 enableGitInfo = true
 version = "0.15.2"
 
+  [markup.goldmark.renderer]
+    unsafe= true
+	
 # Google Analytics tracking
 #googleAnalytics = ""
 
