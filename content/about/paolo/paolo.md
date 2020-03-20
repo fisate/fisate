@@ -24,4 +24,4 @@ company = "Fondatore"
 +++
 
 Appassionato di tecnologia e innovazione. Do valore alle relazioni.
-Trovo opportunità dove gli altri vedono problemi. Cerco di migliorare quello che mi sta attorno. Videomaker della domenica. Amante della cucina. Cittadino del mondo. Parlo Italiano, Inglese e Francese.
+Trovo opportunità dove gli altri vedono problemi. Cerco di migliorare quello che mi sta attorno. Home Assistant contributor. Videomaker della domenica. Amante della cucina. Cittadino del mondo. Parlo Italiano, Inglese e Francese.
